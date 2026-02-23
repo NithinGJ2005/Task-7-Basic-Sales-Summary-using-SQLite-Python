@@ -46,4 +46,4 @@ The notebook performs the following steps:
 4. Perform aggregation using GROUP BY
 5. Visualize sales data using matplotlib
 
-##Author - Nithin G J
+## Author - Nithin G J
